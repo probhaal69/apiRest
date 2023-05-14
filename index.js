@@ -16,9 +16,9 @@ const fechaYhora = `${fechaActual.getFullYear()}-${('0' + (fechaActual.getMonth(
 // Crea un pool de conexiones
 const db = mysql.createPool({
     host: 'localhost',
-    user: 'carlos',
-    password: 'smr1234',
-    database: 'd_d_asistant',
+    user: 'usuario',
+    password: 'password',
+    database: 'database',
     waitForConnections: true,
     connectionLimit: 10,
     queueLimit: 0
