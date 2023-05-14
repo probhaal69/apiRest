@@ -40,12 +40,9 @@ El servidor se iniciará en [http://localhost:3000](http://localhost:3000) (o cu
 
 ## Documentación de la API
 
-Aquí puedes explicar cómo utilizar tu API, detallando los diferentes endpoints, los métodos HTTP que aceptan, los parámetros que requieren, los códigos de estado que pueden devolver, etc.
+La api accede a la base de datos para d_d_asistant, haciendo todas las consultas que requiera la aplicacion, esta parte tambien se encarga del encriptamiento de contraseñas de usuarios.
 
 ## Contribución
 
-Si deseas contribuir a este proyecto, por favor, abre un 'pull request'. Agradecemos cualquier contribución.
+Si deseas contribuir a este proyecto, por favor, abre un 'pull request'. Agradesco cualquier contribución.
 
-## Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
